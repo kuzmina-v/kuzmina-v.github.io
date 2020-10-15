@@ -1,0 +1,21 @@
+body{
+            background-color: rgb(182, 212, 192);
+        }
+h1{
+	text-align: center; color: darkgreen;
+}
+dt{
+            font-weight: bold; color: rgb(17, 63, 63);
+}
+dd{
+            color: rgb(64, 73, 67);
+}
+table{
+	 border-collapse: collapse;
+}
+img{
+	width: 5cm; height: 6cm;
+}
+a{
+	color: white;
+}
