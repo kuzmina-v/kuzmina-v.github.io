@@ -97,19 +97,18 @@ hr{
 .text a{
     color: whitesmoke;
 }
-.text button{
+.text a{
     margin-bottom: 20px;
-    border: 1px solid  #014375;
+    border: 1px solid  #012541;
     padding: 10px;
     background-color:  #014375;
     border-radius: 5px;
     float: right;
+	border-color: #012541;
 }
-.text button:hover{
+.text a:hover{
     background-color: whitesmoke;
-}
-.text button a:hover{
-    color: #014375;
+	color: #014375;
 }
 .resume dt{
     font-weight: bold;
