@@ -74,8 +74,9 @@ hr{
     width: 43%;
     height: 400px;
     box-sizing: border-box;
-    border: 2px solid black;
+    border: 2px solid #012541;
     border-radius: 5px;
+	border-color: #012541;
 }
 .text{
     padding: 0 20px 20px 20px;
@@ -101,10 +102,9 @@ hr{
     margin-bottom: 20px;
     border: 1px solid  #012541;
     padding: 10px;
-    background-color:  #014375;
+    background-color:  #012541;
     border-radius: 5px;
     float: right;
-	border-color: #012541;
 }
 .text a:hover{
     background-color: whitesmoke;
