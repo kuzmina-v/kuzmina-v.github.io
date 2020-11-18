@@ -51,7 +51,7 @@ hr{
 }
 .navigation li{
     float: left;
-    width: 33.33%;
+    width: 25%;
 }
 .navigation a{
     display: block;
